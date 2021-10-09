@@ -18,3 +18,4 @@ Advanced Network Pinger with various options.
 * You can download itcp here: https://cdn.nekoshield.com/itcp.exe 
 * Or just clone this repository
 * When you are done with downloading just drag the exe into C:\Windows\System32
+* Final Step: Just open command prompt and type itcp
